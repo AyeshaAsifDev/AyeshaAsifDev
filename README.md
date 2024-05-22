@@ -5,14 +5,14 @@
 
  <!--<div align="center"><img src=" https://github.com/AyeshaAsifDev/AyeshaAsifDev/assets/165193330/5d836b28-9f95-4c53-a086-c33e6690eb7e"> </div> <br>-->
 
-<ul>
+<ul style="margin-top:-15px">
 <li>🌱 I'm Currently learning frontend Development.</li><br>
 
 <li>🧬 Building dynamic projects to enhance my skills. </li><br>
 
 <li>👾 Always Curious and Eager to learn new Technologies</li><br>
 
-<li>🚀"Larning to write programs stretches your mind <br> <br>and helps you think better"- Bill Gates.</li><br>
+<li>🚀"Larning to write programs stretches your mind <br>    and helps you think better"- Bill Gates.</li><br>
 
 <li>💬 Ask me about HTML, CSS, Bootstrap, </li><br>
 </ul>
