@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi there 👋, I'm Ayesha Asif!</h1>
-<h3 align="center">Web Development Enthusiast | Aspirng future MERN stack developer</h3><hr>
+<h3 align="center">Web Development Enthusiast | Aspirng future MERN stack developer</h3>
  <img align="center" src="https://github.com/AyeshaAsifDev/AyeshaAsifDev/assets/165193330/5d836b28-9f95-4c53-a086-c33e6690eb7e)">
  <a  align="center" href="https://standwithpalestine.vercel.app"><img src="https://standwithpalestine.vercel.app/banner.png"></a><br>
 
