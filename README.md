@@ -12,8 +12,7 @@
 
 <li>👾 Always Curious and Eager to learn new Technologies</li><br>
 
-<li>🚀"Larning to write programs stretches your mind 
-  and helps you think better"- Bill Gates.</li><br>
+<li>🚀"Larning to write programs stretches your mind <br>and helps you think better"- Bill Gates.</li><br>
 
 <li>💬 Ask me about HTML, CSS, Bootstrap, </li><br>
 </ul>
