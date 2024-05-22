@@ -13,8 +13,11 @@
 
 <li>🚀"Larning to write programs stretches your mind and helps <br> you think better"- Bill Gates.</li><br>
 
-<li>💬 Ask me about HTML, CSS, Bootstrap, </li><br>
-</ul>
+<li>💬 Ask me about HTML, CSS, Bootstrap, </li>
+</ul><br>
+
+##<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
