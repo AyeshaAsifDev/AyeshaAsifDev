@@ -5,7 +5,7 @@
 
  <!--<div align="center"><img src=" https://github.com/AyeshaAsifDev/AyeshaAsifDev/assets/165193330/5d836b28-9f95-4c53-a086-c33e6690eb7e"> </div> <br>-->
 
-<ul style="margin-top:-15px">
+<ul style="margin-top:-20">
 <li>🌱 I'm Currently learning frontend Development.</li><br>
 
 <li>🧬 Building dynamic projects to enhance my skills. </li><br>
