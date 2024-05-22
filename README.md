@@ -1,6 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Ayesha Asif!</h1>
 <h3 align="center">Web Development Enthusiast | Aspirng future MERN stack developer</h3>
-![image](https://github.com/AyeshaAsifDev/AyeshaAsifDev/assets/165193330/3b7e359c-9a35-40ef-9e13-aa77633cb712)
+![image](https://github.com/AyeshaAsifDev/AyeshaAsifDev/assets/165193330/b17911be-798d-49bf-90de-1a68df1d5879)
+
 
 <ul>
 <li>🌱 I'm Currently learning frontend Development.</li><br>
