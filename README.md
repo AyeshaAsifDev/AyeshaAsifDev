@@ -1,5 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=1C37B3&background=0C040E00&random=false&width=435&lines=hi%2CThere%F0%9F%91%8B%F0%9F%8F%BB;I'm+AYESHA+ASIF!)](https://git.io/typing-svg)
 
-<h1 align="center">Hi there 👋🏻, I'm Ayesha Asif!</h1>
 <h3 align="center">Web Development Enthusiast | Aspirng future MERN stack developer</h3>
   <div align="right"><img src="https://github.com/AyeshaAsifDev/AyeshaAsifDev/assets/165193330/de775b1c-6f0f-4145-b175-135bebadf813"> </div> <br>
 
