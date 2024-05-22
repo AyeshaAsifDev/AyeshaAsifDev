@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi there 👋🏻, I'm Ayesha Asif!</h1>
 <h3 align="center">Web Development Enthusiast | Aspirng future MERN stack developer</h3>
-  <div align="center"><img src="https://github.com/AyeshaAsifDev/AyeshaAsifDev/assets/165193330/de775b1c-6f0f-4145-b175-135bebadf813"> </div> <br>
+  <div align="right"><img src="https://github.com/AyeshaAsifDev/AyeshaAsifDev/assets/165193330/de775b1c-6f0f-4145-b175-135bebadf813"> </div> <br>
 
  <!--<div align="center"><img src=" https://github.com/AyeshaAsifDev/AyeshaAsifDev/assets/165193330/5d836b28-9f95-4c53-a086-c33e6690eb7e"> </div> <br>-->
 
