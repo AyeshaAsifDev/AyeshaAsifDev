@@ -1,7 +1,7 @@
 <div align="center"> <a  href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=4E8BFF&background=0C040E00&random=false&width=435&lines=hi%2CThere%F0%9F%91%8B%F0%9F%8F%BB;I'm+AYESHA+ASIF!" alt="Typing SVG" /></a></div>
 
 
-<h3 align="center">Web Development Enthusiast | Aspirng future MERN stack developer</h3>
+<h3 align="center">Web Development Enthusiast | Aspirng future MERN stack developer</h3><br>
 <picture> <img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width = 400px></picture><br>
 
 <ul align="left">
