@@ -2,7 +2,8 @@
 
 <h1 align="center">Hi there 👋, I'm Ayesha Asif!</h1>
 <h3 align="center">Web Development Enthusiast | Aspirng future MERN stack developer</h3>
-[![Stand With Palestine](https://raw.githubusercontent.com/22mahmoud/StandWithPalestine/main/public/StandWithPalestine.svg)](https://standwithpalestine.vercel.app)
+![image](https://github.com/AyeshaAsifDev/AyeshaAsifDev/assets/165193330/6632e3c0-ece1-493b-a89c-1104348dc83a)
+
 
 <ul>
 <li>🌱 I'm Currently learning frontend Development.</li><br>
