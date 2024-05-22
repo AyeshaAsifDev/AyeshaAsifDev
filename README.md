@@ -1,17 +1,16 @@
 
-<h1 align="center">Hi there 👋, I'm Ayesha Asif!</h1>
+<h1 align="center">Hi there 👋🏻, I'm Ayesha Asif!</h1>
 <h3 align="center">Web Development Enthusiast | Aspirng future MERN stack developer</h3>
-<!--  <a href="https://standwithpalestine.vercel.app"><img src="https://standwithpalestine.vercel.app/banner.png"></a> -->
- <div align="center"><img  src="https://github.com/AyeshaAsifDev/AyeshaAsifDev/assets/165193330/5d836b28-9f95-4c53-a086-c33e6690eb7e)"> </div> <br>
+ <div align="center"><img src="https://github.com/AyeshaAsifDev/AyeshaAsifDev/assets/165193330/5d836b28-9f95-4c53-a086-c33e6690eb7e)"> </div> <br>
 
 <ul>
 <li>🌱 I'm Currently learning frontend Development.</li><br>
 
-<li>🔭 Building dynamic projects to enhance my skills. </li><br>
+<li>🧬 Building dynamic projects to enhance my skills. </li><br>
 
-<li>⭐ Always Curious and Eager to learn new Technologies</li><br>
+<li>👾 Always Curious and Eager to learn new Technologies</li><br>
 
-<li>💡 "Larning to write programs stretches your mind and helps you think better"- Bill Gates.</li><br>
+<li>🚀"Larning to write programs stretches your mind and helps you think better"- Bill Gates.</li><br>
 
 <li>💬 Ask me about HTML, CSS, Bootstrap, </li><br>
 </ul>
