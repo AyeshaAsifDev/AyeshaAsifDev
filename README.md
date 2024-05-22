@@ -2,7 +2,7 @@
 
 
 <h3 align="center">Web Development Enthusiast | Aspirng future MERN stack developer</h3>
-<picture> <img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width = 400px></picture>
+<picture> <img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width = 400px></picture><br>
 
 <ul align="left">
 <li>🌱 I'm Currently learning frontend Development.</li><br>
