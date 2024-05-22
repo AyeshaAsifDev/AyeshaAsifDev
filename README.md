@@ -1,8 +1,8 @@
 <a href="https://standwithpalestine.vercel.app"><img src="https://standwithpalestine.vercel.app/banner.png"></a>
 
-<script src="https://standwithpalestine.vercel.app/iframeResizer.min.530448b7287f94fcad875bd99eb15561.js"></script>
-<iframe frameborder="0" id="standwithpalestine" width="100%" src="https://standwithpalestine.vercel.app/banner.html"></iframe>
-<script>iFrameResize({ log: false }, '#standwithpalestine')</script>
+[![Stand With Palestine](https://raw.githubusercontent.com/22mahmoud/StandWithPalestine/main/public/StandWithPalestine.svg)](https://standwithpalestine.vercel.app)
+
+[![Stand With Palestine](https://raw.githubusercontent.com/22mahmoud/StandWithPalestine/main/public/StandWithPalestineFlat.svg)](https://standwithpalestine.vercel.app)
 <h1 align="center">Hi there 👋, I'm Ayesha Asif!</h1>
 <h3 align="center">Web Development Enthusiast | Aspirng future MERN stack developer</h3>
 
