@@ -2,7 +2,8 @@
 
 
 <h3 align="center">Web Development Enthusiast | Aspirng future MERN stack developer</h3>
-  <div align="right"><img src="https://github.com/AyeshaAsifDev/AyeshaAsifDev/assets/165193330/de775b1c-6f0f-4145-b175-135bebadf813"> </div> <br>
+  <div align="right"><img src="![Uploading 68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f646973702f3630313031343131363737303437352e363036386265666634363430612e67696.gif…]()
+"> </div> <br>
 
 <ul>
 <li>🌱 I'm Currently learning frontend Development.</li><br>
