@@ -2,8 +2,7 @@
 
 
 <h3 align="center">Web Development Enthusiast | Aspirng future MERN stack developer</h3>
-  <div align="right"><img src="![Uploading 68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f646973702f3630313031343131363737303437352e363036386265666634363430612e67696.gif…]()
-"> </div> <br>
+##<picture><img src = "https://user-images.githubusercontent.com/64439609/213525571-a0b12213-7e89-48df-a45f-153c78f3cf5e.png" width =40px></picture>
 
 <ul>
 <li>🌱 I'm Currently learning frontend Development.</li><br>
