@@ -12,7 +12,7 @@
 
 <li>💡 "Larning to write programs stretches your mind and helps you think better"- Bill Gates.</li><br>
 
-<li>💬 Ask me about HTML,CSS,Bootstrap,</li><br>
+<li>💬 Ask me about HTML, CSS, Bootstrap, </li><br>
 </ul>
 
 <h3 align="left">Languages and Tools:</h3>
