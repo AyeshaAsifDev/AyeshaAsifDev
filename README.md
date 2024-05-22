@@ -8,7 +8,7 @@
 
 <li>🔭 Building dynamic projects to enhance my skills. </li><br>
 
-<li>⭐ Always Curious amd Eager to learn new Technologies</li>
+<li>⭐ Always Curious amd Eager to learn new Technologies</li><br>
 
 <li>💡 "Larning to write programs stretches your mind and helps you think better"- Bill Gates.</li><br>
 
