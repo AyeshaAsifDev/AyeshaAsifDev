@@ -1,9 +1,8 @@
 <a href="https://standwithpalestine.vercel.app"><img src="https://standwithpalestine.vercel.app/banner.png"></a>
+![image](https://github.com/AyeshaAsifDev/AyeshaAsifDev/assets/165193330/0b17e550-eb97-46de-a2c1-64ee324538af)
 <h1 align="center">Hi there 👋, I'm Ayesha Asif!</h1>
 <h3 align="center">Web Development Enthusiast | Aspirng future MERN stack developer</h3>
 [![Stand With Palestine](https://raw.githubusercontent.com/22mahmoud/StandWithPalestine/main/public/StandWithPalestine.svg)](https://standwithpalestine.vercel.app)
-
-![image](https://github.com/AyeshaAsifDev/AyeshaAsifDev/assets/165193330/0b17e550-eb97-46de-a2c1-64ee324538af)
 
 <ul>
 <li>🌱 I'm Currently learning frontend Development.</li><br>
