@@ -2,9 +2,9 @@
 
 
 <h3 align="center">Web Development Enthusiast | Aspirng future MERN stack developer</h3>
-##<picture><img src = "https://user-images.githubusercontent.com/64439609/213525571-a0b12213-7e89-48df-a45f-153c78f3cf5e.png" width =40px></picture>
+<picture> <img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width = 400px></picture>
 
-<ul>
+<ul align="left">
 <li>🌱 I'm Currently learning frontend Development.</li><br>
 
 <li>🧬 Building dynamic projects to enhance my skills. </li><br>
